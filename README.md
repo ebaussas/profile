@@ -1,4 +1,7 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7d3a1a49375319.58b33cfdef629.png" width="100%" <br>
+
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebaussas&label=Profile%20views&color=0e75b6&style=flat" alt="ebaussas" /> </p>
 
